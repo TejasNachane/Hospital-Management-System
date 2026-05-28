@@ -87,7 +87,7 @@ The application automatically creates these roles on startup:
 
 ****Use PostMan** for API testing. use the Api Guide (postman guide for api).**
 
-The application runs on `http://localhost:8080`
+The application runs on `http://localhost:8082`
 
 ### Authentication
 - `POST /api/auth/login` - User login
